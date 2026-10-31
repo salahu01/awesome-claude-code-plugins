@@ -366,7 +366,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [web-security-guard](./plugins/web-security-guard)
 - [supply-chain-gate](./plugins/supply-chain-gate)
 - [agent-safety-preflight](./plugins/agent-safety-preflight)
-- [watchdog](https://github.com/watchdoglab/watchdog) - 14 security dogs in one plugin (VAPT, API, auth, cloud/IaC, AI agents, privacy, supply chain, mobile, database, secrets, frontend, Web3, incident response, compliance). Always-on review while you code, plus /watchdog-go-<area> audits with ranked findings, file:line and fixes. Static by default.
+- [watchdog](https://github.com/watchdoglab/watchdog) - 14 security dogs in one plugin (VAPT, API, auth, cloud/IaC, AI agents, privacy, supply chain, mobile, database, secrets, frontend, Web3, incident response, compliance). Always-on review while you code, plus `/watchdog-go-<area>` audits with ranked findings, file:line and fixes. Static by default.
 
 ### MCP Servers
 - [AccInt](https://github.com/maxbaluev/accreted-intelligence) — Local-first Work Model MCP server and Claude Code/Codex/OpenCode plugin. Tools: `acc_retrieve`, `acc_act`; official registry `io.github.maxbaluev/accint`.
